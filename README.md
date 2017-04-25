@@ -1,8 +1,8 @@
-##PHP Sample code for google cloud policy document
+## PHP Sample code for google cloud policy document
 
 policydocument.php implements google cloud policy document for uploading file to Storage service without google account.
 
-**Replacement**
+### Replacement
 
 remember to replace the following information
 
