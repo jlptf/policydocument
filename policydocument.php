@@ -1,6 +1,7 @@
 <?php 
 
     /*
+     * reference : https://gist.github.com/MLoureiro/14503293c3cb2191e2f6 
      * @params p12FilePath Service account p12 file path
      * @params string Plain text for encoding
      */
