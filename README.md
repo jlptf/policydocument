@@ -12,5 +12,5 @@ remember to replace the following information
 * **account**: your servcie account 
 
 
-Blog: <http://gcprelated.blogspot.tw/2017/04/summary-storage.html>
+Blog: <http://gcprelated.blogspot.tw/2017/04/how-to-upload-file-to-storage-without.html>
 
